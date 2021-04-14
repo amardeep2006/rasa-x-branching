@@ -9,7 +9,7 @@ pipeline:
   min_ngram: 1
   max_ngram: 4
 - name: DucklingEntityExtractor
-  url: http://localhost:8000
+  url: http://my-release-rasa-x-duckling.rasa-namespace.svc:8000
   dimensions: null
 - name: RegexEntityExtractor
   case_sensitive: false
