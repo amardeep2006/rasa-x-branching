@@ -181,6 +181,7 @@ nlu:
     - Little Falls
     - 7 Maple Ln
     - Queensbury
+    - 8000 dollars
 - intent: get_a_quote
   examples: |
     - i need insurance
