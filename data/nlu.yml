@@ -223,6 +223,7 @@ nlu:
     - hi there
     - heyo
     - howdy
+    - hola
 - intent: goodbye
   examples: |
     - good afternoon
